@@ -1,4 +1,11 @@
 # Kata GildedRose #
+# MDEIS - Grupo 4 #
+
+## Integrantes ##
+1. Paul Fernando Grimaldo Bravo
+2. Nanet Taboada Frias
+3. Alvaro Espejo
+4. Adan Condori
 
 ## Descripción ##
 Bienvenidos al equipo SOE. Hace algun tiempo atras el cliente GildedRose nos pidió realizar un programa para mantener el inventario de sus productos (ítems). En aquella época le encargamos el trabajo a Pablo, que ahora ya no trabaja con nosotros. Ahora el cliente nos ha pedido añadir una nueva funcionalidad al programa. Se desea vender una nueva categoría de ítems.
